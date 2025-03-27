@@ -6,9 +6,9 @@ Tools needed:
 BRW | Borland Resource Workshop (v. 4.5)
 
 # How to help
-Using BRW, you can DIRECTLY MODIFY the .EXE and .DLL files of Windows.\
-In order to modify .**_ files (compressed files), you MUST USE DOS/DOSBOX and execute:\
-```EXPAND FILE.**_ FILE.***```\\
-Example:\
-```EXPAND PROGMAN.EX_ PROGMAN.EXE```\\
+Using BRW, you can DIRECTLY MODIFY the .EXE and .DLL files of Windows. 
+In order to modify .**_ files (compressed files), you MUST USE DOS/DOSBOX and execute:  ```EXPAND FILE.**_ FILE.***```  
+
+Example:  ```EXPAND PROGMAN.EX_ PROGMAN.EXE```  
+
 THEN, within BRW, you can modify the text.
