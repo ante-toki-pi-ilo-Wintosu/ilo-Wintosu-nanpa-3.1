@@ -7,7 +7,7 @@
 
 [dialog]
     caption   = "pali e ilo Wintosu"
-    exit      = "pali pini e ilo Wintosu"
+    exit      = "pali pi ilo Wintosu li pali"
     title     = "pali e ilo Wintosu"
     options   = "In addition to installing Windows 3.1, you can:"
     printwait = "Please wait while Setup configures your printer(s)..."
