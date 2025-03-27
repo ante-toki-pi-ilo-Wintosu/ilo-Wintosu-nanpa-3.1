@@ -1,2 +1,5 @@
 # ilo Wintosu nanpa 3.1 | 󱤎󱦐󱥷󱦒󱤎󱦒󱥃󱦒󱥭󱦒󱥆󱦒󱥡󱦒󱥰󱦒󱦑󱤽3.1
-TODO: Fill This Out.
+This repository will store the INSTALLATION FILES for Windows 3.1, Translated into Toki Pona.
+
+# Helping the project
+Tools needed:
