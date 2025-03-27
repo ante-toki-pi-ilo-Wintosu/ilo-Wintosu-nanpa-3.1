@@ -11,7 +11,7 @@
     title     = "pali e ilo Wintosu"
     options   = "In addition to installing Windows 3.1, you can:"
     printwait = "Please wait while Setup configures your printer(s)..."
-    copywait = "o kama pona tawa ilo Wintosu nanpa 3.1!\n\n   - sina sin seme? o lukin e lipu 'A Brief Tour of Microsoft Windows'\n     insa lipu 'Getting Started'.\n\n   - sina sin ala seme? o lukin e lipu 'New in This Version'\n     insa lipu 'Getting Started'."
+    copywait = "o kama pona tawa ilo Wintosu nanpa 3.1!\n\n   - sina sin la o lukin e lipu 'A Brief Tour of Microsoft Windows'\n     insa lipu 'Getting Started'.\n\n   - sina sin ala la o lukin e lipu 'New in This Version'\n     insa lipu 'Getting Started'."
 
    copywait4="Make sure you register your copy of Microsoft Windows 3.1.\nWhen you register, Microsoft will:\n\n   - Notify you of product updates and new product releases.\n\n   - Send you a FREE Windows newsletter."
 
