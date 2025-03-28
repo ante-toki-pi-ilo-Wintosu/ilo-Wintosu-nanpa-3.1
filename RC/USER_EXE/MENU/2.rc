@@ -1,0 +1,16 @@
+2 MENU PRELOAD MOVEABLE DISCARDABLE 
+{
+ POPUP "-"
+ {
+  MENUITEM "o &kama sin", 61728
+  MENUITEM "o &tawa", 61456
+  MENUITEM "o &ante suli", 61440
+  MENUITEM "o pali &len", 61472, GRAYED
+  MENUITEM "o pali &suli", 61488
+  MENUITEM SEPARATOR
+  MENUITEM "o &weka\tCtrl+F4", 61536
+  MENUITEM SEPARATOR
+  MENUITEM "o kama la &ilo\tCtrl+F6", 61504
+ }
+
+}
