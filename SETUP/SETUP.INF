@@ -822,9 +822,9 @@ wintutor = 4:WINTUTOR.DAT
 
 [win.games]
    4:SOL.EXE,      "musi Solite"					, 180688, sol
-   4:WINMINE.EXE,  "musi: weka e ilo pi wawa utala"			,  27776, winmine
+   4:WINMINE.EXE,  "musi: o weka e ilo moli"			,  27776, winmine
    5:SOL.HLP,      "kama tawa pi musi Solite"				,  13753
-   4:WINMINE.HLP,  "kama tawa pi musi: weka e ilo pi wawa utala"	,  12754
+   4:WINMINE.HLP,  "kama tawa pi musi: o weka e ilo moli"	,  12754
    diskspace=234971
 
 [win.scrs]
@@ -930,7 +930,7 @@ group1=StartUp
 
 [group5]
 "musi Solite",					SOL.EXE,,,                                 sol
-"musi: weka e ilo pi wawa utala",		WINMINE.EXE,,,                             winmine
+"musi: o weka e ilo moli",		WINMINE.EXE,,,                             winmine
 
 [group1]
 "jan misikeke Wason"
@@ -945,7 +945,7 @@ group1=StartUp
 
 [group6]
 "musi Solite",					SOL.EXE,,,                                 sol
-"musi: weka e ilo pi wawa utala",		WINMINE.EXE,,,                             winmine
+"musi: o weka e ilo moli",		WINMINE.EXE,,,                             winmine
 
 [group7]
 "ilo ante PIF",				PIFEDIT.EXE
