@@ -1480,18 +1480,20 @@ hpebios     = 3:hpebios.386,x:*ebios ; Required for HP 386 machines.
 ; profile = language DLL, DLL description, language ID (ilanguage)
 ;
 [language]
-dan = 2:langsca.dll, "Danish"                              ,1030
-nld = 2:langdut.dll, "Dutch"                               ,1043
-enu =                     , "English (American)"             ,1033
-eng = 2:langeng.dll, "English (International)" ,2057
-fin = 2:langsca.dll, "Finnish"                     ,1035
-fra = 3:langfrn.dll, "French"                              ,1036
-frc = 2:langeng.dll, "French Canadian"       ,3084
-deu = 2:langger.dll, "German"                              ,1031
-isl = 2:langsca.dll, "Icelandic"                           ,1039
-ita = 2:langeng.dll, "Italian"                     ,1040
-nor = 2:langsca.dll, "Norwegian"                           ,1044
-ptg = 2:langeng.dll, "Portuguese"                       ,2070
-esp = 2:langspa.dll, "Spanish"             ,1034
-esn = 2:langeng.dll, "Spanish (Modern)"      ,3082
-sve = 2:langsca.dll, "Swedish"                ,1053
+tok = 2:langeng.dll, "toki pona" ,2056
+
+;	dan = 2:langsca.dll, "Danish"                              ,1030
+;	nld = 2:langdut.dll, "Dutch"                               ,1043
+;	enu =                     , "English (American)"             ,1033
+;	eng = 2:langeng.dll, "English (International)" ,2057
+;	fin = 2:langsca.dll, "Finnish"                     ,1035
+;	fra = 3:langfrn.dll, "French"                              ,1036
+;	frc = 2:langeng.dll, "French Canadian"       ,3084
+;	deu = 2:langger.dll, "German"                              ,1031
+;	isl = 2:langsca.dll, "Icelandic"                           ,1039
+;	ita = 2:langeng.dll, "Italian"                     ,1040
+;	nor = 2:langsca.dll, "Norwegian"                           ,1044
+;	ptg = 2:langeng.dll, "Portuguese"                       ,2070
+;	esp = 2:langspa.dll, "Spanish"             ,1034
+;	esn = 2:langeng.dll, "Spanish (Modern)"      ,3082
+;	sve = 2:langsca.dll, "Swedish"                ,1053
